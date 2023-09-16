@@ -1,0 +1,54 @@
+.home-background {
+  background: #ffffff;
+  padding: 10px;
+}
+.submit-button-container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.meetup-image {
+  height: 35vh;
+  margin-top: 50px;
+}
+.home-heading {
+  font-family: 'Roboto';
+  font-weight: 700;
+  color: #334155;
+  margin-bottom: 0px;
+  font-size: 54px;
+}
+.home-heading2 {
+  font-family: 'Roboto';
+  font-weight: 700;
+  color: #2563eb;
+  margin-bottom: 0px;
+  font-size: 54px;
+}
+.home-paragraph {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 24px;
+  color: #475569;
+}
+.home-paragraph2 {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 24px;
+
+  color: #475569;
+}
+.register-button {
+  background-color: #3b82f6;
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #ffffff;
+  padding: 10px;
+  border: 0px;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  cursor: pointer;
+}
